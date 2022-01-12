@@ -1,0 +1,16 @@
+C:\CSharp\Projeto02_GestorDeClientes_CMD\bin\Debug\net5.0\Projeto02_GestorDeClientes_CMD.exe
+C:\CSharp\Projeto02_GestorDeClientes_CMD\bin\Debug\net5.0\Projeto02_GestorDeClientes_CMD.deps.json
+C:\CSharp\Projeto02_GestorDeClientes_CMD\bin\Debug\net5.0\Projeto02_GestorDeClientes_CMD.runtimeconfig.json
+C:\CSharp\Projeto02_GestorDeClientes_CMD\bin\Debug\net5.0\Projeto02_GestorDeClientes_CMD.runtimeconfig.dev.json
+C:\CSharp\Projeto02_GestorDeClientes_CMD\bin\Debug\net5.0\Projeto02_GestorDeClientes_CMD.dll
+C:\CSharp\Projeto02_GestorDeClientes_CMD\bin\Debug\net5.0\ref\Projeto02_GestorDeClientes_CMD.dll
+C:\CSharp\Projeto02_GestorDeClientes_CMD\bin\Debug\net5.0\Projeto02_GestorDeClientes_CMD.pdb
+C:\CSharp\Projeto02_GestorDeClientes_CMD\obj\Debug\net5.0\Projeto02_GestorDeClientes_CMD.csproj.AssemblyReference.cache
+C:\CSharp\Projeto02_GestorDeClientes_CMD\obj\Debug\net5.0\Projeto02_GestorDeClientes_CMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Projeto02_GestorDeClientes_CMD\obj\Debug\net5.0\Projeto02_GestorDeClientes_CMD.AssemblyInfoInputs.cache
+C:\CSharp\Projeto02_GestorDeClientes_CMD\obj\Debug\net5.0\Projeto02_GestorDeClientes_CMD.AssemblyInfo.cs
+C:\CSharp\Projeto02_GestorDeClientes_CMD\obj\Debug\net5.0\Projeto02_GestorDeClientes_CMD.csproj.CoreCompileInputs.cache
+C:\CSharp\Projeto02_GestorDeClientes_CMD\obj\Debug\net5.0\Projeto02_GestorDeClientes_CMD.dll
+C:\CSharp\Projeto02_GestorDeClientes_CMD\obj\Debug\net5.0\ref\Projeto02_GestorDeClientes_CMD.dll
+C:\CSharp\Projeto02_GestorDeClientes_CMD\obj\Debug\net5.0\Projeto02_GestorDeClientes_CMD.pdb
+C:\CSharp\Projeto02_GestorDeClientes_CMD\obj\Debug\net5.0\Projeto02_GestorDeClientes_CMD.genruntimeconfig.cache
